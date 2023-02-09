@@ -10,7 +10,7 @@ body {
     text-align: center;
     margin-top: 1%;
     line-height: 30px;
-    background-color:#000;
+    background-color:#FFFFFF;
 }
 .txtblue {
     font-size: 16px;
@@ -19,7 +19,7 @@ body {
 }
 .txtwhite {
     font-size: 16px;
-    color: #fff;
+    color: #000000;
 }
 .txtyellow {
     font-size: 16px;
